@@ -58,8 +58,8 @@ const Link = styled.a`
 const Wrapper = styled.article`
   display: flex;
   flex-direction: column;
-  flex: 1 1 340px;
-  max-width: 340px;
+  flex: 1 2 340px;
+  max-width: 390px;
 `;
 
 const ImageWrapper = styled.div`

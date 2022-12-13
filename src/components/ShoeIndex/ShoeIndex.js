@@ -47,7 +47,7 @@ const Wrapper = styled.div`
   flex-direction: row-reverse;
   gap: 32px;
   justify-content: center;
-  flex: 1 1 1120px;
+  flex: 1 1 1320px;
   max-width: 1320px;
   margin: 0 auto;
 `;
@@ -61,7 +61,7 @@ const LeftColumn = styled.div`
 `;
 
 const MainColumn = styled.div`
-  flex: 1 3 1000px;
+  flex: 1 3 1400px;
   
   `;
 
